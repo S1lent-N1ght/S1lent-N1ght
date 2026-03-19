@@ -1,7 +1,7 @@
 ## GitHub 
 
 Qualification:
-BTEC Level 3 National Extended Diploma in Computing 
+BTEC Level 3 National Extended Diploma in Computing
 Ongoing - BSc Computer Science
 
 <!--
