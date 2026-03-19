@@ -1,4 +1,8 @@
-## Hi there 👋
+## GitHub 
+
+Qualification:
+BTEC Level 3 National Extended Diploma in Computing 
+Ongoing - BSc Computer Science
 
 <!--
 **S1lent-N1ght/S1lent-N1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
